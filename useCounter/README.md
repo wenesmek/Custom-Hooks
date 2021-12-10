@@ -1,6 +1,6 @@
 # useCounter Hook
 
-Ejemplo e uso:
+Ejemplo de uso:
 
 ```
     const { counter, increment, decrement, reset } = useCounter(10);
